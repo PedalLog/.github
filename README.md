@@ -1,0 +1,2 @@
+# .github
+PedalLog Github Settings
